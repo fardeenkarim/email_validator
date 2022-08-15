@@ -1,0 +1,37 @@
+body{
+    background-color: #D8F1F8;
+}
+li {list-style-type: none;
+font-size: 16pt;
+}
+.mail {
+margin: auto;
+padding-top: 10px;
+padding-bottom: 10px;
+width: 400px;
+background : 
+#D8F1F8;
+border: 1px soild 
+rgb(255, 255, 255);
+}
+.mail h2 {
+margin-left: 38px;
+}
+input {
+font-size: 20pt;
+}
+input:focus, textarea:focus{
+background-color: 
+rgb(255, 255, 255);
+}
+input submit {
+font-size: 12pt;
+}
+.rq {
+color: 
+#ffffff;
+font-size: 10pt;
+}
+body{
+    border: solid;
+}
